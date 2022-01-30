@@ -1,0 +1,25 @@
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+@media(min-width:320px){
+    .Container{
+        width:320px;
+    }
+
+#background{
+    background:blanchedalmond;
+    height: 720px;
+    width: 1520px;
+}
+h2{
+   font-style: oblique;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+}
+footer{
+    text-align: center;
+    padding: 3px;
+    background-color: chocolate ;
+  }
